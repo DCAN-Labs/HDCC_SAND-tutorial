@@ -1,9 +1,9 @@
-Template for the Read the Docs tutorial
+HDCC Sandbox Tutorial Guide Github Repository
 =======================================
 
-This GitHub template includes fictional Python library
-with some basic Sphinx docs.
+This GitHub repository includes documentation for
+HDCC Sandbox tutorials.
 
-Read the tutorial here:
+Read the guide here:
 
-https://docs.readthedocs.io/en/stable/tutorial/
+https://hdcc-sand-tutorial.readthedocs.io/en/latest/

@@ -28,31 +28,31 @@ sandbox via R studio and jupyter notebook examples.
 Navigation
 ==========
 
-Click here to review the broader :doc:\`course_objectives\`. Active
+Click here to review the broader :doc:`course_objectives`. Active
 learning lessons are broken down into six modules
 
-**Module 1** :doc:\`introduction_to_the_sandbox\` shows users how to
+**Module 1** :doc:`introduction_to_the_sandbox` shows users how to
 access the LASSO website and connect to the sandbox and show the
 possible tools available on the sandbox.
 
-**Module 2** :doc:\`using_the_desktop_on_the_sandbox\` shows users how
+**Module 2** :doc:`using_the_desktop_on_the_sandbox` shows users how
 to navigate the virtual desktop available on the Sandbox and pull down
 repositories from outside the sandbox.
 
-**Module 3** :doc`loading_the_R_studio_server_and_setup\` shows users
+**Module 3** :doc:`loading_the_R_studio_server_and_setup` shows users
 how to access the R studio server from the sandbox and install
 dependencies needed for these examples.
 
-**Module 4** :doc:\`BIBSnet_volumetric_analysis_on_jupyter_notebooks\`
+**Module 4** :doc:`BIBSnet_volumetric_analysis_on_jupyter_notebooks`
 shows users how to use the jupyter notebooks on the sandbox environment.
 Users will examine the trajectory of volumetric outputs from BIBSnet.
 
-**Module 5** :doc:\`univariate_statistical_testing_of_QSIrecon_outputs\`
+**Module 5** :doc:`univariate_statistical_testing_of_QSIrecon_outputs`
 shows users how to perform big data analysis without breaking the bank
 on memory via the modelarray package. Users will examine the trajectory
 of diffusion outputs from QSI-recon.
 
-**Module 6** :doc:\`XCP_D_output_multivariate_prediction\` shows users
+**Module 6** :doc:`XCP_D_output_multivariate_prediction` shows users
 how to perform dimensionality reduction and prediction using XCP-D
 outputs. Users will examine how the trajectory of FC data impacts
 cognitive outcomes.

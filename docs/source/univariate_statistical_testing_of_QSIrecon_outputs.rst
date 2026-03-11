@@ -50,7 +50,7 @@ Walkthrough
    | |image4|
 
 5. After completing this tutorial we will follow with
-   :doc:\`XCP_D_output_multivariate_prediction\` next.
+   :doc:`XCP_D_output_multivariate_prediction` next.
 
 .. |image1| image:: media/image4.png
    :width: 6.5in

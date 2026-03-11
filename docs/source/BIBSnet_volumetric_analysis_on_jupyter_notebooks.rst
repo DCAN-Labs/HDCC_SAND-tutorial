@@ -32,7 +32,7 @@ Walkthrough
    | |image2|
 
 3. This will open up a jupyter notebook launcher with a navigation panel
-   on the left hand side\ |image3|
+   on the left hand side |image3|
 
 4. | If you enter the HDCC_Sandbox_tutorials folder on the left hand
      side, you should see the examples folder
@@ -41,10 +41,10 @@ Walkthrough
 5. | Open the examples folder and you’ll find the “BIBSnet volumetric
      analysis” folder. Open that to find an i python notebook, and click
      on that to start the tutorial.
-   | |image5|\ |image6|
+   | |image5| |image6|
 
 6. After this example we will continue with
-   :doc:\`univariate_statistical_testing_of_QSIrecon_outputs\` next.
+   :doc:`univariate_statistical_testing_of_QSIrecon_outputs` next.
 
 .. |image1| image:: media/image3.png
    :width: 6.5in

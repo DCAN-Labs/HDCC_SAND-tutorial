@@ -36,11 +36,11 @@ Walkthrough
 4. | In the lower right hand corner, navigate to the
      “HDCC_Sandbox_tutorial/examples/install_dependencies” and open the
      R script
-   | |image4|\ |image5|\ |image6|
+   | |image4| |image5| |image6|
 
 5. | This will open a script on the left hand side – go ahead and just
      run the script. Installation time is about 10-20 minutes. We will
-     do :doc:\`BIBSnet_volumetric_analysis_on_jupyter_notebooks\` in the
+     do :doc:`BIBSnet_volumetric_analysis_on_jupyter_notebooks` in the
      meantime.
    | |image7|
 

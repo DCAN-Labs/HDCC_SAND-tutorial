@@ -2,9 +2,9 @@
 
 # -- Project information
 
-project = 'Lumache'
-copyright = '2021, Graziella'
-author = 'Graziella'
+`project = 'HDCC_Sandbox_Tutorial_Guide'
+copyright = '2026, Eric Feczko'
+author = 'Eric Feczko'
 
 release = '0.1'
 version = '0.1.0'

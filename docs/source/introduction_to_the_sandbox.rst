@@ -21,13 +21,13 @@ Walkthrough
 ===========
 
 1. Navigate to https://nbdc-datashare.lassoinformatics.com/ and select
-   the login button on the lower left hand side of the screen.\ |image1|
+   the login button on the lower left hand side of the screen. |image1|
 
 2. | This should take you to a login screen where you can use federal
      RAS system for login. Go ahead and use the RAS system to login like
      you normally would. We normally use the login gov but use cases may
      vary from person to person.
-   | |image2|\ |image3|
+   | |image2| |image3|
 
 3. After logging in, you should be able to access the sandbox on the
    lower left hand corner. You’ll also have access to the help center,
@@ -40,7 +40,7 @@ Walkthrough
    and the Jupyter Notebook applications – lets start by selecting the
    “Linux Desktop on ood-pdcluster” , which provides a virtual desktop
    Sandbox environment. The next section
-   :doc:\`using_the_desktop_on_the_sandbox\` will show how to navigate
+   :doc:`using_the_desktop_on_the_sandbox` will show how to navigate
    the virtual desktop.
 
 |image5|

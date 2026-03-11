@@ -35,22 +35,22 @@ Walkthrough
    https://github.com/DCAN-Labs/HDCC_Sandbox_tutorials where the
    tutorials for the HDCC are located. If you select the green “code”
    button, you can find the path for cloning the repository. Go ahead
-   and copy the URL to your clipboard.\ |image3|
+   and copy the URL to your clipboard. |image3|
 
 4. Going back to the terminal, go ahead and type “git clone” add a space
    and paste the path into the terminal. This will pull the repository
-   from github onto the sandbox.\ |image4|
+   from github onto the sandbox. |image4|
 
 5. | Now, we will want to see what data is on the sandbox environment.
      This can be found in the “/shared” folder on the root system. Go
-     ahead and list the contents of the \`/shared/hackathon\` folder,
+     ahead and list the contents of the `/shared/hackathon` folder,
      and you’ll see folders for the ABCD and HBCD data available for the
      workshop.
    | |image5|
 
 6. If you list the contents of “~/HDCC_Sandbox_tutorials/examples”
    you’ll see the four examples we’ll be tackling today. We will be
-   starting with :doc:\`loading_the_R_studio_server_and_setup\` next.
+   starting with :doc:`loading_the_R_studio_server_and_setup` next.
 
 ..
 

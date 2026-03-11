@@ -3,6 +3,6 @@ requires = ["flit_core >=3.2,<4"]
 build-backend = "flit_core.buildapi"
 
 [project]
-name = "HDCC_Sandbox_Tutorial_Guide"
+name = "HDCC Sandbox Tutorial Guide"
 authors = [{name = "Eric Feczko", email = "feczk001@umn.edu"}]
 dynamic = ["version", "description"]

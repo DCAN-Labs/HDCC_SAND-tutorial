@@ -2,7 +2,7 @@
 
 # -- Project information
 
-project = 'HDCC_Sandbox_Tutorial_Guide'
+project = 'HDCC Sandbox Tutorial Guide'
 copyright = '2026, Eric Feczko'
 author = 'Eric Feczko'
 

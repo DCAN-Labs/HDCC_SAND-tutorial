@@ -1,5 +1,8 @@
+Using the desktop on the sandbox
+================================
+
 Introduction
-============
+------------
 
 The virtual desktop on the sandbox provides users with a flexible
 platform for analyzing HBCD and ABCD data securely. In addition, the
@@ -8,7 +11,7 @@ repositories and external programs onto their home directory within the
 sandbox.
 
 Module Objectives
-=================
+-----------------
 
 1. Navigate the virtual desktop
 
@@ -19,7 +22,7 @@ Module Objectives
 4. Explore the available data using the terminal
 
 Walkthrough
-===========
+-----------
 
 1. | The virtual environment provides a graphical user interface (GUI)
      that allows us to navigate the sandbox. For now, let us open a
@@ -56,21 +59,21 @@ Walkthrough
 
    |image6|
 
-.. |image1| image:: media/image1.png
+.. |image1| image:: HDCCmedia/module2/media/image3.png
    :width: 6.5in
    :height: 3in
-.. |image2| image:: media/image4.png
+.. |image2| image:: HDCCmedia/module2/media/image2.png
    :width: 6.5in
    :height: 0.79167in
-.. |image3| image:: media/image2.png
+.. |image3| image:: HDCCmedia/module2/media/image1.png
    :width: 6.5in
    :height: 2.625in
-.. |image4| image:: media/image6.png
+.. |image4| image:: HDCCmedia/module2/media/image5.png
    :width: 6.5in
    :height: 1.73611in
-.. |image5| image:: media/image5.png
+.. |image5| image:: HDCCmedia/module2/media/image6.png
    :width: 6.5in
    :height: 0.33333in
-.. |image6| image:: media/image3.png
+.. |image6| image:: HDCCmedia/module2/media/image4.png
    :width: 6.5in
    :height: 0.81944in

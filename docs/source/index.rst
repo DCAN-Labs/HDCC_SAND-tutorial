@@ -1,5 +1,8 @@
+DATS HDCC Workshop
+==================
+
 Summary
-=======
+-------
 
 An unprecedented volume of imaging and non-imaging phenotypic infant
 longitudinal data become available through large-scale open data
@@ -26,7 +29,7 @@ connect to the sandbox, and how to perform analyses using the HDCC
 sandbox via R studio and jupyter notebook examples.
 
 Navigation
-==========
+----------
 
 Click here to review the broader :doc:`course_objectives`. Active
 learning lessons are broken down into six modules

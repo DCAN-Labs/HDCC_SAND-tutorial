@@ -1,5 +1,8 @@
+Example 4: XCP_D Output Multivariate Prediction
+===============================================
+
 Introduction
-============
+------------
 
 XCP_D outputs produce resting-state functional connectivity matrices
 that can be leveraged for subsequent analysis. Functional connectivity
@@ -17,7 +20,7 @@ predictive models of cognitive from parcellated whole-brain connectivity
 data.
 
 Module Objectives
-=================
+-----------------
 
 1. Users will learn how to load XCP_D parcellated connectivity outputs.
 
@@ -31,7 +34,7 @@ Module Objectives
    them
 
 Walkthrough
-===========
+-----------
 
 1. | Return to your interactive sessions, you can do this by clicking on
      a new session in the dashboard and opening a new window. Instead of
@@ -54,15 +57,15 @@ Walkthrough
      in order.
    | |image4|
 
-.. |image1| image:: media/image3.png
+.. |image1| image:: HDCCmedia/module6/media/image1.png
    :width: 6.5in
    :height: 2.16667in
-.. |image2| image:: media/image2.png
+.. |image2| image:: HDCCmedia/module6/media/image2.png
    :width: 6.5in
    :height: 3.81944in
-.. |image3| image:: media/image1.png
+.. |image3| image:: HDCCmedia/module6/media/image3.png
    :width: 6.5in
    :height: 1.58333in
-.. |image4| image:: media/image4.png
+.. |image4| image:: HDCCmedia/module6/media/image4.png
    :width: 6.5in
    :height: 4.95833in

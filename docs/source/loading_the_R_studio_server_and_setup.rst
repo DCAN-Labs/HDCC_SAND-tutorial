@@ -1,5 +1,8 @@
+Example 1: R studio server install dependencies
+===============================================
+
 Introduction
-============
+------------
 
 The R studio server enables users a stable R environment for conducting
 analyses on the sandbox. The R studio server session is stored within
@@ -9,7 +12,7 @@ install their own R packages. This module will walk users through basic
 installation steps needed for this workshop.
 
 Module Objectives
-=================
+-----------------
 
 1. Navigate and open an R studio server session on the sandbox platform
 
@@ -18,7 +21,7 @@ Module Objectives
 3. Start installing the R packages needed for subsequent modules
 
 Walkthrough
-===========
+-----------
 
 1. | Return to the sandbox dashboard and select the R studio server
      session
@@ -44,24 +47,24 @@ Walkthrough
      meantime.
    | |image7|
 
-.. |image1| image:: media/image1.png
+.. |image1| image:: HDCCmedia/module3/media/image2.png
    :width: 6.5in
    :height: 3.09722in
-.. |image2| image:: media/image2.png
+.. |image2| image:: HDCCmedia/module3/media/image1.png
    :width: 3.8217in
    :height: 3.96573in
-.. |image3| image:: media/image6.png
+.. |image3| image:: HDCCmedia/module3/media/image5.png
    :width: 6.5in
    :height: 3.05556in
-.. |image4| image:: media/image7.png
+.. |image4| image:: HDCCmedia/module3/media/image3.png
    :width: 4.5in
    :height: 0.92708in
-.. |image5| image:: media/image3.png
+.. |image5| image:: HDCCmedia/module3/media/image7.png
    :width: 2.54167in
    :height: 1.47917in
-.. |image6| image:: media/image5.png
+.. |image6| image:: HDCCmedia/module3/media/image6.png
    :width: 2.46354in
    :height: 1.18903in
-.. |image7| image:: media/image4.png
+.. |image7| image:: HDCCmedia/module3/media/image4.png
    :width: 6.5in
    :height: 4.83333in

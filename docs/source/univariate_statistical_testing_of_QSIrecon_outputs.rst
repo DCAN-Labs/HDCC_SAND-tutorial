@@ -1,5 +1,8 @@
+Example 3: diffusion univariate statistical testing
+===================================================
+
 Introduction
-============
+------------
 
 White matter changes through development may be indicative of maturation
 of structural connections between brain regions. Diffusion imaging can
@@ -13,7 +16,7 @@ which minimizes the resource footprint and makes such analysis more
 accessible.
 
 Module Objectives
-=================
+-----------------
 
 1. Users will learn how to use diffusion imaging outputs from the ABCD
    study.
@@ -25,7 +28,7 @@ Module Objectives
    variance.
 
 Walkthrough
-===========
+-----------
 
 1. | Return to your interactive sessions, you can do this by clicking on
      a new session in the dashboard and opening a new window. Instead of
@@ -52,15 +55,15 @@ Walkthrough
 5. After completing this tutorial we will follow with
    :doc:`XCP_D_output_multivariate_prediction` next.
 
-.. |image1| image:: media/image4.png
+.. |image1| image:: HDCCmedia/module5/media/image1.png
    :width: 6.5in
    :height: 2.16667in
-.. |image2| image:: media/image3.png
+.. |image2| image:: HDCCmedia/module5/media/image2.png
    :width: 6.5in
    :height: 3.81944in
-.. |image3| image:: media/image1.png
+.. |image3| image:: HDCCmedia/module5/media/image3.png
    :width: 5.51042in
    :height: 0.94792in
-.. |image4| image:: media/image2.png
+.. |image4| image:: HDCCmedia/module5/media/image4.png
    :width: 6.5in
    :height: 2.27778in

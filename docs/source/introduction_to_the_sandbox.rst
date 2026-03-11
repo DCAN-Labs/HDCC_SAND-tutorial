@@ -1,5 +1,8 @@
+Introduction to the Sandbox
+===========================
+
 Introduction
-============
+------------
 
 The Lasso website provides access to the NBDC (HBDC and ABCD) datasets
 as well as data dictionary, search, and filter tools. The sandbox
@@ -9,7 +12,7 @@ order to access the sandbox, we must first navigate the LASSO platform.
 This module will walk users through the LASSO platform access.
 
 Module Objectives
-=================
+-----------------
 
 1. Navigate to the LASSO platform
 
@@ -18,7 +21,7 @@ Module Objectives
 3. Access the sandbox and review the available tools.
 
 Walkthrough
-===========
+-----------
 
 1. Navigate to https://nbdc-datashare.lassoinformatics.com/ and select
    the login button on the lower left hand side of the screen. |image1|
@@ -45,18 +48,18 @@ Walkthrough
 
 |image5|
 
-.. |image1| image:: media/image4.png
+.. |image1| image:: HDCCmedia/module1/media/image4.png
    :width: 6.5in
    :height: 3.41667in
-.. |image2| image:: media/image3.png
+.. |image2| image:: HDCCmedia/module1/media/image2.png
    :width: 3.34896in
    :height: 2.89937in
-.. |image3| image:: media/image1.png
+.. |image3| image:: HDCCmedia/module1/media/image1.png
    :width: 3.76026in
    :height: 2.89583in
-.. |image4| image:: media/image5.png
+.. |image4| image:: HDCCmedia/module1/media/image3.png
    :width: 6.5in
    :height: 3.06944in
-.. |image5| image:: media/image2.png
+.. |image5| image:: HDCCmedia/module1/media/image5.png
    :width: 6.5in
    :height: 3.09722in

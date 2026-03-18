@@ -1,9 +1,8 @@
-HDCC Sandbox Tutorial Guide Github Repository
+ARCHIVED HDCC Sandbox Tutorial RTDs repo
 =======================================
 
-This GitHub repository includes documentation for
-HDCC Sandbox tutorials.
+See new repository here - https://github.com/DCAN-Labs/HDCC-Sandbox_RTD 
 
-Read the guide here:
+New RTDs link: https://hdcc-sandbox-rtd.readthedocs.io/latest/
 
-https://hdcc-sand-tutorial.readthedocs.io/en/latest/
+Old RTDs link: https://hdcc-sand-tutorial.readthedocs.io/en/latest/
